@@ -74,6 +74,7 @@ Your TV must accept ADB connections over the network.
 # How to use
 
 ### 1) Download an APK (on your phone)
+https://github.com/ilblogdicristiangallo/Send-Browser-TV/releases/download/apk%2Csend%2Cbrowser%2Ctv%2Csmart-tv%2Candroid%2Candroid-tv%2C/Send_Browser_TV-app-release.apk
 1. Open **Send Browser TV**
 2. Browse to a website and download an APK
 3. Wait until the download completes
