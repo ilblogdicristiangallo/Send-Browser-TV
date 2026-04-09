@@ -1,6 +1,13 @@
 # Send-Browser-TV
 Send Browser TV** is a **smartphone app (Android)** that lets you **download APKs directly from the built‑in browser** and then **send/install them on your TV / TV Stick over Wi‑Fi** using **ADB (TCP 5555)
 
+<a href="https://github.com/ilblogdicristiangallo/Send-Browser-TV/blob/main/ScreenShot/177568106261bc.png" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/ilblogdicristiangallo/Send-Browser-TV/main/ScreenShot/177568106261bc.png" 
+    style="display: block; margin: 0 auto; width: 80%; max-width: 250px; border:1px solid #ccc; border-radius:8px; cursor:pointer;"
+  >
+</a>
+
 It is **NOT** an app to install on the TV.  
 You install **Send Browser TV on your phone**, download APKs on the phone, and push them to:
 
