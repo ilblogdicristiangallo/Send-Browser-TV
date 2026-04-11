@@ -1,0 +1,195 @@
+PRIVACY POLICY
+
+Send Browser TV
+Last updated: July 2025
+
+------------------------------------------------------------------------
+
+1. INTRODUCTION
+
+This Privacy Policy describes how Send Browser TV ("the App", "we", "us",
+or "our") handles information when you use our Android application.
+
+Send Browser TV is a utility app that allows users to browse the web,
+download APK files on their smartphone, and send/install them on a TV or
+TV Stick over a local Wi-Fi network using ADB (Android Debug Bridge)
+over TCP port 5555.
+
+We are committed to protecting your privacy. This policy explains what
+data the App accesses, how it is used, and your rights.
+
+------------------------------------------------------------------------
+
+2. DEVELOPER INFORMATION
+
+Developer: Cristian Gallo
+Contact email: ilblogdicristiangallo@gmail.com
+Website: www.ilblogdicristiangallo.com
+
+------------------------------------------------------------------------
+
+3. DATA WE DO NOT COLLECT
+
+Send Browser TV does NOT collect, store, transmit, or share any personal
+data. Specifically:
+
+• We do NOT collect personal information (name, email, phone number,
+  address, etc.)
+• We do NOT collect device identifiers (Advertising ID, IMEI, etc.)
+• We do NOT collect analytics or usage statistics
+• We do NOT use tracking technologies, cookies, or pixels for tracking
+  purposes
+• We do NOT collect browsing history — all browsing activity within the
+  built-in browser stays on your device
+• We do NOT use third-party analytics SDKs (e.g., Google Analytics,
+  Firebase Analytics, Facebook SDK, etc.)
+• We do NOT serve advertisements
+• We do NOT sell, rent, or share any data with third parties
+
+------------------------------------------------------------------------
+
+4. DATA THAT STAYS ON YOUR DEVICE
+
+The following data is generated and used locally on your device only and
+is never transmitted to us or any third party:
+
+a) Downloaded files (APKs)
+   APK files you download through the built-in browser are saved locally
+   on your device (in the app's internal folder or a user-selected
+   folder via Android Storage Access Framework). These files are under
+   your full control.
+
+b) IP addresses of TVs / TV Sticks
+   When you use the Manual IP or Auto Scan feature, IP addresses of
+   devices on your local network are used solely to establish an ADB
+   connection. These addresses are not stored persistently, logged, or
+   transmitted outside your local network.
+
+c) ADB connection data
+   The App communicates with your TV / TV Stick over your local Wi-Fi
+   network using the ADB protocol (TCP 5555). This communication occurs
+   exclusively within your local network and does not pass through any
+   external server.
+
+d) Browser cache and cookies
+   The built-in browser (GeckoView) may store temporary cache and
+   cookies locally on your device, as any standard browser does. This
+   data is never accessed or transmitted by us.
+
+------------------------------------------------------------------------
+
+5. PERMISSIONS
+
+The App may request the following Android permissions:
+
+• INTERNET
+  Required to browse the web in the built-in browser and to communicate
+  with your TV / TV Stick over the local Wi-Fi network.
+
+• ACCESS_NETWORK_STATE / ACCESS_WIFI_STATE
+  Required to detect network connectivity and identify the local subnet
+  for the Auto Scan feature.
+
+• WRITE_EXTERNAL_STORAGE / READ_EXTERNAL_STORAGE (if applicable)
+  Required on older Android versions to save downloaded APK files to
+  device storage.
+
+• MANAGE_EXTERNAL_STORAGE (if applicable)
+  May be required on Android 11+ to access files in shared storage.
+
+• FOREGROUND_SERVICE (if applicable)
+  May be used to keep downloads or ADB transfers running reliably in
+  the background.
+
+No permission is used to collect or transmit personal data.
+
+------------------------------------------------------------------------
+
+6. THIRD-PARTY SERVICES
+
+The App uses the GeckoView engine (by Mozilla) to render web pages in
+the built-in browser. GeckoView runs locally on your device. Please
+refer to Mozilla's privacy policy for information about the GeckoView
+engine:
+https://www.mozilla.org/privacy/
+
+The App does NOT integrate any other third-party services, SDKs, or
+libraries that collect user data.
+
+When browsing the web inside the App, you may visit third-party websites
+that have their own privacy policies. We are not responsible for the
+privacy practices of those websites.
+
+------------------------------------------------------------------------
+
+7. CHILDREN'S PRIVACY
+
+Send Browser TV is not directed at children under the age of 13 (or the
+applicable age in your jurisdiction). We do not knowingly collect any
+personal information from children. Since the App does not collect any
+data at all, no data from children is collected.
+
+------------------------------------------------------------------------
+
+8. DATA SECURITY
+
+Since we do not collect or store any personal data on our servers, there
+is no risk of a data breach from our side.
+
+All operations (browsing, downloading, ADB connections) are performed
+locally on your device and within your local Wi-Fi network.
+
+Please note that the ADB connection between your phone and your TV /
+TV Stick is not encrypted. We recommend using the App only on trusted
+private Wi-Fi networks.
+
+------------------------------------------------------------------------
+
+9. DATA RETENTION
+
+We do not retain any data. All data generated by the App (downloads,
+cache, connection information) is stored locally on your device and can
+be deleted at any time by:
+
+• Clearing the App's data/cache in Android Settings
+• Uninstalling the App
+• Manually deleting downloaded files
+
+------------------------------------------------------------------------
+
+10. YOUR RIGHTS
+
+Since we do not collect any personal data, there is no personal data for
+us to provide, modify, or delete. However, you have full control over
+all data stored locally on your device.
+
+If you are a resident of the European Economic Area (EEA), you have
+rights under the General Data Protection Regulation (GDPR). If you are a
+California resident, you have rights under the California Consumer
+Privacy Act (CCPA). Since we collect no personal data, these rights are
+inherently respected.
+
+------------------------------------------------------------------------
+
+11. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. Any changes will be
+posted on this page with an updated "Last updated" date.
+
+We encourage you to review this Privacy Policy periodically for any
+changes. Your continued use of the App after any changes constitutes
+your acceptance of the updated policy.
+
+------------------------------------------------------------------------
+
+12. CONTACT US
+
+If you have any questions or concerns about this Privacy Policy or the
+App, please contact us at:
+
+Email: ilblogdicristiangallo@gmail.com
+Website: www.ilblogdicristiangallo.com
+
+------------------------------------------------------------------------
+
+© 2025 Cristian Gallo. All rights reserved.
